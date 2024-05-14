@@ -16,6 +16,7 @@ header{
 
 header a{
   
+  
 
 }
 
@@ -23,6 +24,7 @@ header li{
   padding: 25px;
   list-style: none;
   font-size: 0.7cm;
+
 
 }
 
@@ -61,6 +63,8 @@ footer{
 #newsletter form input[type="email"], .quote input, .quote textarea{
     
   }
+
+
 .container {
   display: flex;
   align-items: center;
@@ -72,4 +76,3 @@ header ul {
   align-items:center
 
 }
-
