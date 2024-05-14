@@ -61,5 +61,15 @@ footer{
 #newsletter form input[type="email"], .quote input, .quote textarea{
     
   }
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 
+header ul {
+  display: flex;
+  align-items:center
+
+}
 
