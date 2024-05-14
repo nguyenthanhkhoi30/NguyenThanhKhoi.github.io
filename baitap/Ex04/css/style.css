@@ -20,9 +20,9 @@ header a{
 }
 
 header li{
-  display: inline;
-  display: inline-block;
-  display:flex;
+  padding: 25px;
+  list-style: none;
+  font-size: 0.7cm;
 
 }
 
